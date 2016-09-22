@@ -70,7 +70,7 @@ html{    background:url(http://thekitemap.com/images/feedback-img.jpg) no-repeat
 
 /* Icons ---------------------------------- */
 
-#id_chattext{
+#id_chattext {
 	background-image: url(http://rexkirby.com/kirbyandson/images/comment.svg);
 	background-size: 30px 30px;
 	background-position: 11px 8px;
@@ -89,7 +89,7 @@ input:focus, textarea:focus {
 	background-color:white;
 }
 
-#button-blue{
+#id_enter{
 	font-family: 'Montserrat', Arial, Helvetica, sans-serif;
 	float:left;
 	width: 100%;
@@ -107,7 +107,7 @@ input:focus, textarea:focus {
   font-weight:700;
 }
 
-#button-blue:hover{
+#id_enter:hover{
 	background-color: rgba(0,0,0,0);
 	color: #0493bd;
 }
